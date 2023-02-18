@@ -4,10 +4,15 @@
 
 ### Front-end URL : http://hany564419583979.s3-website-us-east-1.amazonaws.com/home
 
-### ScreenShots :
+### files:
 
                 1-udagram
-                  -src
-                2-screenShot
+                  -udagram-api
+                   -src
+                   -mock
+                    -screenshots
                 3-.circleci
-
+                4-docs
+                  -infrastructure
+                  -dependencies
+                  -pipeline
